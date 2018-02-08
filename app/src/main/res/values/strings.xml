@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MarqueeTextView</string>
+    <string name="hello_word">"这是一个长TextView，这是一个长TextView，这是一个长TextView，这是一个长TextView，这是一个长TextView。"</string>
+</resources>
